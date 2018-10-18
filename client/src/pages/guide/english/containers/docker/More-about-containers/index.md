@@ -39,6 +39,13 @@ docker container prune
 
 ```
 
+* Command to attach local standard input, output, and error streams to a running container
+
+```
+docker container attach
+
+```
+
 #### More Information
 - [More commands for docker containers]
 (https://docs.docker.com/engine/reference/commandline/container/)
